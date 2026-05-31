@@ -33,59 +33,21 @@ We extend our deepest gratitude to our founding mentors whose guidance shaped th
 
 ## 👥 Member List
 
-### 2025
-
-| Name | GitHub |
-|------|--------|
-| CHING HUI QING | [@hqching77](#) |
-| THAM CHEE GIN | [@username](#) |
-| PHILIP LIM JIA QUAN | [@username](#) |
-| SOH WEE CHEN | [@username](#) |
-| LEE YI YANG | [@username](#) |
-| CHOO YIN YAN |  [@username](#) |
-
-### 2024
-
 | Name | GitHub |
 |------|--------|
 | GOH CHENG XIAN | [@username](#) |
 | TEE TA YU | [@username](#) |
-| CHING HUI QING | [@hqching77](#) |
-| THAM CHEE GIN | [@username](#) |
+| CHING HUI QING | [@hqching77](https://github.com/hqching77) |
 | PHILIP LIM JIA QUAN | [@username](#) |
+| ONG JIONG CHENG |  [@username](#) |
+| TAN AI LIN |  [@username](#) |
+| THAM CHEE GIN | [@username](#) |
 | NG HAN SHENG |  [@username](#) |
 | MOK ZHE PING |  [@username](#) |
-| ONG JIONG CHENG |  [@username](#) |
 | SOH WEE CHEN | [@username](#) |
 | WONG MING HUEY | [@username](#) |
 | LEE YI YANG | [@username](#) |
 | CHOO YIN YAN |  [@username](#) |
-
-
-### 2023
-
-| Name | GitHub |
-|------|--------|
-| GOH CHENG XIAN | [@username](#) |
-| TEE TA YU | [@username](#) |
-| CHING HUI QING | [@hqching77](#) |
-| THAM CHEE GIN | [@username](#) |
-| PHILIP LIM JIA QUAN | [@username](#) |
-| NG HAN SHENG |  [@username](#) |
-| MOK ZHE PING |  [@username](#) |
-| ONG JIONG CHENG |  [@username](#) |
-
-
-### 2022
-
-| Name | GitHub |
-|------|--------|
-| GOH CHENG XIAN | [@username](#) |
-| TEE TA YU | [@username](#) |
-| CHING HUI QING | [@hqching77](#) |
-| PHILIP LIM JIA QUAN | [@username](#) |
-| ONG JIONG CHENG |  [@username](#) |
-| TAN AI LIN |  [@username](#) |
 
 
 ---
@@ -94,11 +56,16 @@ We extend our deepest gratitude to our founding mentors whose guidance shaped th
 
 | # | Project | Year | Members | Description | Tech Stack | Achievement | Repo |
 |---|---------|------|---------|-------------|------------|-------------|------|
-| 1 | **[Project Alpha]** | 2024 | [Member A], [Member B] | [Brief description of what the project does and its purpose] | `Python` `React` `Firebase` | 🥇 [Award / Competition Result] | [GitHub](#) |
-| 2 | **[Project Beta]** | 2024 | [Member C], [Member D] | [Brief description of what the project does and its purpose] | `Arduino` `C++` `IoT` | 🏆 [Award / Competition Result] | [GitHub](#) |
-| 3 | **[Project Gamma]** | 2023 | [Member E], [Member F] | [Brief description of what the project does and its purpose] | `JavaScript` `Node.js` `MongoDB` | 🥈 [Award / Competition Result] | [GitHub](#) |
-| 4 | **[Project Delta]** | 2023 | [Member G], [Member H] | [Brief description of what the project does and its purpose] | `Machine Learning` `Python` `TensorFlow` | 🎖️ [Award / Competition Result] | [GitHub](#) |
-| 5 | **[Project Epsilon]** | 2022 | [Member I], [Member J] | [Brief description of what the project does and its purpose] | `Web Dev` `HTML` `CSS` `JS` | 🏅 [Award / Competition Result] | [GitHub](#) |
+| 1 | **PeekaBowl** | 2025 | SOH WEE CHEN, CHING HUI QING | [Brief description of what the project does and its purpose] | `Python` `YOLO` `Firebase` | 🏆 Merit - 2025 KLESF International Challenge - Secondary<br>🥈 Silver - Technology Innovation Competition of 2025 Belt&Road and BRICS Competition of Skills Development and Technology Innovation(ASEAN) | [GitHub](#) |
+| 2 | **AIDARS (AI-Driven Animal Repellent System)** | 2024-2025 | SOH WEE CHEN, ONG JIONG CHENG, MOK ZHE PING | [Brief description of what the project does and its purpose] | `Arduino` `C++` `IoT` | 🥇 Champion - 2024 Tech 4 Good Challenge Environmental Track<br>🥈 Runner Up - 2025 AI x SDGs Hackathon Competition   | [GitHub](#) |
+| 3 | **Environmental Impact and Social Perception Analysis of the Lynas Rare Earth Plant** | 2024 | CHOO YIN YAN, LEE YI YANG, CHING HUI QING | [Brief description of what the project does and its purpose] | `JavaScript` `Node.js` `MongoDB` | 🥇 Champion - 2024 Global Secondary School Student Inquiry Competition<br>🥇 Champion - 2024 Science Exploration Fair: To Do, To Understand<br> 🥈 Runner Up - 2024 Hin Hua High School Project-based Inquiry Challenge
+ | [GitHub](#) |
+| 4 | **ToxLight** | 2023-2024 | CHING HUI QING, THAM CHEE GIN, PHILIP LIM JIA QUAN, NG HAN SHENG | [Brief description of what the project does and its purpose] | `Machine Learning` `Python` `TensorFlow` | 🏆 Top 12 - 2024 Global Secondary School Student Inquiry Competition<br>🏆 Top 11 - 2024 Science Exploration Fair: To Do, To Understand<br>🥇 2024 Hin Hua High School Project-based Inquiry Challenge<br>🥉 Bronze - 2024 Kuala Lumpur Engineering Science Fair| [GitHub](#) |
+| 5 | **Glow Guard** | 2023 | CHING HUI QING, THAM CHEE GIN, NG HAN SHENG | [Brief description of what the project does and its purpose] | `Web Dev` `HTML` `CSS` `JS` |  | [GitHub](#) |
+| 6 | **Use of Mycelium** | 2023 | CHING HUI QING, TAN AI LIN, ONG JIONG CHENG, MOK ZHE PING | [Brief description of what the project does and its purpose] | `Web Dev` `HTML` `CSS` `JS` |  | [GitHub](#) |
+| 7 | **HIAS (Hyper Information Attendance System)** | 2022 | TEO EE HERN, TEE JIN SENG, CHOW YONG XIANG, GOH CHENG XIAN, TEE TA YU, PHILIP LIM JIA QUAN | [Brief description of what the project does and its purpose] | `Web Dev` `HTML` `CSS` `JS` | 🏅 [Award / Competition Result] | [GitHub](#) |
+| 8 | **Smart Wheel** | 2022 | ZIYI, JIASHENG, MINGYOU | [Brief description of what the project does and its purpose] | `Web Dev` `HTML` `CSS` `JS` | 🏅 [Award / Competition Result] | [GitHub](#) |
+| 9 | **Smart Plug** | 2022 | YUNQI, YIFAN, SHANGYAO | [Brief description of what the project does and its purpose] | `Web Dev` `HTML` `CSS` `JS` | 🏅 [Award / Competition Result] | [GitHub](#) |
 
 > 💡 *Add rows to this table for each new project. Use the format above.*
 
@@ -113,15 +80,8 @@ We extend our deepest gratitude to our founding mentors whose guidance shaped th
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥇 [Competition / Award Name] — [Year]
-- 🏆 [Competition / Award Name] — [Year]
-- 🥈 [Competition / Award Name] — [Year]
-- 🎖️ [Competition / Award Name] — [Year]
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=flat&logo=autodesk&logoColor=white)
 
 ---
 
