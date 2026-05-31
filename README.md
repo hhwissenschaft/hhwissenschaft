@@ -39,9 +39,9 @@ We extend our deepest gratitude to our founding mentors whose guidance shaped th
 | # | Project | Year | Tech Stack | Repo |
 |---|---------|------|------------|------|
 | 1 | **PeekaBowl** | 2025 | `Python` `YOLO` `Firebase` | [GitHub](#) |
-| 2 | **AIDARS** | 2024–2025 | `Arduino` `C++` `IoT` | [GitHub](#) |
+| 2 | **AIDARS** | 2024-2025 | `Arduino` `C++` `IoT` | [GitHub](#) |
 | 3 | **Environmental Impact & Social Perception Analysis of the Lynas Rare Earth Plant** | 2024 | `Research` | [GitHub](#) |
-| 4 | **ToxLight** | 2023–2024 | `Python` `TensorFlow` `ML` | [GitHub](#) |
+| 4 | **ToxLight** | 2023-2024 | `Python` `TensorFlow` `ML` | [GitHub](#) |
 | 5 | **Glow Guard** | 2023 | `HTML` `CSS` `JS` | [GitHub](#) |
 | 6 | **Mycelium** | 2023 | `Research` | [GitHub](#) |
 | 7 | **HIAS** | 2022 | `HTML` `CSS` `JS` | [GitHub](#) |
@@ -62,7 +62,7 @@ We extend our deepest gratitude to our founding mentors whose guidance shaped th
 
 ---
 
-### 🤖 AIDARS — AI-Driven Animal Repellent System *(2024–2025)*
+### 🤖 AIDARS — AI-Driven Animal Repellent System *(2024-2025)*
 **Members:** SOH WEE CHEN, ONG JIONG CHENG, MOK ZHE PING
 > [Brief description of what the project does and its purpose]
 
@@ -81,7 +81,7 @@ We extend our deepest gratitude to our founding mentors whose guidance shaped th
 
 ---
 
-### 💡 ToxLight *(2023–2024)*
+### 💡 ToxLight *(2023-2024)*
 **Members:** CHING HUI QING, THAM CHEE GIN, PHILIP LIM JIA QUAN, NG HAN SHENG
 > [Brief description of what the project does and its purpose]
 
